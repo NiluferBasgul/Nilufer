@@ -1,1 +1,17 @@
+#include <iostream>
+#include <cstring>
+using namespace std;
 
+void printMyName () {
+	//TODO
+  NiluferBashgul
+}
+
+void printMyIndex () {
+	//TODO
+  171310
+}
+
+int main () {
+	//TODO
+}
